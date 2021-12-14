@@ -1,0 +1,26 @@
+
+.btn {
+	color: black;
+	background-color: hsl(21, 66%, 55%);
+	cursor: pointer;
+	margin-left: 20px;
+}
+.btn:hover {
+	color: black;
+}
+.result {
+	margin: 10px 0 0 15px;
+}
+.card {
+ width: 200px;
+ margin: 20px;
+}
+.card-image {
+ display: block;
+}
+.input {
+	margin: 20px;
+	width: 350px;
+  background-color: hsl(21333,66%,55%);
+   
+}

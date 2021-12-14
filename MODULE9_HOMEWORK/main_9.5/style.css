@@ -1,0 +1,37 @@
+
+.input {
+	margin: 10px 20px 20px;
+	width: 250px;
+}
+
+.btn:hover {
+	color: black;
+}
+.input-num {
+	margin-left: 20px;
+}
+.result {
+	margin: 20px 0 0 20px;
+	display: flex;
+ 	flex-wrap: wrap;
+	width: 960px;
+}
+
+.btn {
+	color: white;
+	background-color: hsl(21, 66%, 55%);
+	cursor: pointer;
+	margin-left: 30px;
+	width: 80px;
+	height: 40px;
+	border-style: none;
+}
+.card {
+	width: 400px;
+	margin: 20px 20px 20px 0;
+}
+.card-image {
+	display: block;
+	width: 350px;
+	height: 250px;
+}
